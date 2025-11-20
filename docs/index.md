@@ -9,4 +9,4 @@ This metadata schema is an Extension of the DCAT Application Profile
   took place, as well as regarding which kind(s) of qualitative and quantitative characteristic
   were attributed to the evaluated entity or evaluated activity and to the used instruments.
 
-- Auto-generated [schema documentation](elements/index.md)
+- Auto-generated [schema documentation](elements/overview.md)
